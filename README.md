@@ -1,5 +1,5 @@
 # Drosophila-larvae-project
-This project was conducted by  Erze Cocaj as part of a laboratory project under the cosuperivison of Katrin Vogt, Armin Bahl and me, at the University of Konstanz.
+This project was conducted by  Erze Cocaj as part of a laboratory project under the cosuperivison of Dr. Katrin Vogt, Prof. Dr. Armin Bahl and me, at the University of Konstanz.
 Todo - write more details about it.
 
 This is an image of the calculation of speed to see if it changes in the different experimental conditions.
